@@ -32,7 +32,7 @@
 # 数据结构与算法相关书籍
 
 
-- 1.1《啊哈！算法 啊哈磊扫描版》 [百度云下载链接](https://pan.baidu.com/s/1wIfHrFXhbzF_TMaR_hNe-A  ) 密码: 5h9s
+- 1.1《啊哈！算法 啊哈磊扫描版》 [百度云下载链接](https://www.baidu.com  ) 密码: 5h9s
 - 1.2《算法图解》 [百度云下载链接](https://pan.baidu.com/s/1uqpuVxh4al9YMIRhcVYaug  ) 密码: shda
 - 1.3《妙趣横生的算法（C语言实现 第2版）》 [百度云下载链接](https://pan.baidu.com/s/1rxuKW1hPsfrQfWToSiYhOA  ) 密码: 6m7s
 - 1.4《趣学算法》 [百度云下载链接](https://pan.baidu.com/s/1ZY8OwWQOLM31GdWufJhjnw  ) 密码: tu4r
